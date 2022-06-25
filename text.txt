@@ -1,0 +1,8 @@
+S=q1
+A=q2
+E=a,b
+Q=q1,q2
+q1,a=q1
+q1,b=q2
+q2,a=q2
+q2,b=q2
